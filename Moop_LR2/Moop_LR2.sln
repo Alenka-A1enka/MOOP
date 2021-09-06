@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moop_LR2", "Moop_LR2\Moop_LR2.csproj", "{69226BA6-5E88-489F-9BBE-1812A2F46436}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSort_Test", "BubbleSort_Test\BubbleSort_Test.csproj", "{B8FACFD9-F90C-4EF3-A60E-EC715A7253E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69226BA6-5E88-489F-9BBE-1812A2F46436}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69226BA6-5E88-489F-9BBE-1812A2F46436}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69226BA6-5E88-489F-9BBE-1812A2F46436}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69226BA6-5E88-489F-9BBE-1812A2F46436}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8FACFD9-F90C-4EF3-A60E-EC715A7253E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8FACFD9-F90C-4EF3-A60E-EC715A7253E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8FACFD9-F90C-4EF3-A60E-EC715A7253E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8FACFD9-F90C-4EF3-A60E-EC715A7253E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FE550D2-0976-49AB-9587-04447B872084}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moop_LR7", "Moop_LR7\Moop_LR7.csproj", "{6A6E541B-EFCC-444D-8A2E-570F8B781786}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyStack_Test", "MyStack_Test\MyStack_Test.csproj", "{A64B5BA3-2BF4-4677-9BB2-7CF3D7F797E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A6E541B-EFCC-444D-8A2E-570F8B781786}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A6E541B-EFCC-444D-8A2E-570F8B781786}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A6E541B-EFCC-444D-8A2E-570F8B781786}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A6E541B-EFCC-444D-8A2E-570F8B781786}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A64B5BA3-2BF4-4677-9BB2-7CF3D7F797E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A64B5BA3-2BF4-4677-9BB2-7CF3D7F797E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A64B5BA3-2BF4-4677-9BB2-7CF3D7F797E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A64B5BA3-2BF4-4677-9BB2-7CF3D7F797E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD27551C-BAAC-4EFE-8716-F827D2D9314D}
+	EndGlobalSection
+EndGlobal
